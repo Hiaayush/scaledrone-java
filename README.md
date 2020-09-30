@@ -4,7 +4,7 @@
 
 > Use the Scaledrone Java client to connect to the Scaledrone realtime messaging service
 
-This project goes hand to hand with [Scaledrone documentation](https://www.scaledrone.com/docs). It's still a work in progress, pull requests and issues are very welcome.
+This project goes hand to hand with [Scaledrone documentation](https://www.scaledrone.com/docs). There is still work in progress, pull requests and issues are most welcome.
 
 ## Installation
 
